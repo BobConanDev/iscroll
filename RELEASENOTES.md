@@ -9,7 +9,7 @@
 * [#1009](https://github.com/cubiq/iscroll/issues/1009) fixes utils.prefixPointerEvent method
 * [#1018](https://github.com/cubiq/iscroll/issues/1018), [#652](https://github.com/cubiq/iscroll/issues/652) fixes directionX/Y when scrolling with mouse
 * [#924](https://github.com/cubiq/iscroll/issues/924), [#950](https://github.com/cubiq/iscroll/issues/950) clean up timer on destroy
-* [#949](https://github.com/cubiq/iscroll/issues/949) removes unnecesary style values on wrapper when useTransition option is 'false'
+* [#949](https://github.com/cubiq/iscroll/issues/949) removes unnecessary style values on wrapper when useTransition option is 'false'
 * [#361](https://github.com/cubiq/iscroll/issues/361) fixes two click/tap events issue
 * [#980](https://github.com/cubiq/iscroll/issues/980) fixes event propagation for wheel event
 * [#768](https://github.com/cubiq/iscroll/issues/768) fixes indicators
